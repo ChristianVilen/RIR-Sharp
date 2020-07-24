@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "npm install sharp && node index.js",
-    "sharp": "npm install sharp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
